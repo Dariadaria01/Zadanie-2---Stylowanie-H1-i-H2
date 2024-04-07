@@ -1,9 +1,10 @@
 body {
-  background-color: #3f3f3f;
+  color: #3f3f3f;
 }
-h1 {
+
+.nagłówek1 {
   font-size: 32px;
 }
-h2 {
+.nagłówek2 {
   font-size: 24px;
 }
